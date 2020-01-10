@@ -11,7 +11,7 @@
   <h3 align="center">Quarkus IO</h3>
 </p>
 
-![Logo do Artigo](https://www.flickr.com/photos/marcus-paulo/8711612303/)  
+[<img src="https://www.flickr.com/photos/marcus-paulo/8711612303/">](Logo)
 
 <!-- TABLE OF CONTENTS -->
 
