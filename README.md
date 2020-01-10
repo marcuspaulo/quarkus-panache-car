@@ -1,6 +1,8 @@
 
 # Tutorial: Quarkus - Simplificando o Hibernate utilizando Panache, criando uma aplicação simples utilizando Quarkus Java + REST + CDI + Panache
 
+[Link do artigo](https://www.linkedin.com/pulse/tutorial-quarkus-simplificando-o-hibernate-panache-da-silva-melo/)
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -9,7 +11,7 @@
   <h3 align="center">Quarkus IO</h3>
 </p>
 
-![Lista de Repositórios](/assets/quarkus-logo.png)  
+![Logo do Artigo](https://www.flickr.com/photos/marcus-paulo/8711612303/)  
 
 <!-- TABLE OF CONTENTS -->
 
