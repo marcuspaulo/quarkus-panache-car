@@ -11,7 +11,9 @@
   <h3 align="center">Quarkus IO</h3>
 </p>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/marcus-paulo/8711612303/" title="Onde está o Jacaré? rsrsrs"><img src="https://live.staticflickr.com/8560/8711612303_cfe43b431e_z.jpg" width="640" height="365" alt="Onde está o Jacaré? rsrsrs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<p align="center">
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/marcus-paulo/8711612303/" title="Onde está o Jacaré? rsrsrs"><img src="https://live.staticflickr.com/8560/8711612303_cfe43b431e_z.jpg" width="640" height="365" alt="Onde está o Jacaré? rsrsrs"></a>
+</p>
 
 <!-- TABLE OF CONTENTS -->
 
