@@ -111,7 +111,9 @@ public class CarRepository implements PanacheRepository<Car> {
 
         carEntity.setName(car.getName());
         carEntity.setBrand(car.getBrand());
-        persist(carEntity);
+        //note that once persisted, you don't need to explicitly save your entity: all
+        //modifications are automatically persisted on transaction commit.
+        //persist(carEntity);//opcional 
         return carEntity;
     }
 
